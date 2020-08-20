@@ -1,0 +1,26 @@
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.exe
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.deps.json
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.runtimeconfig.json
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.dll
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.pdb
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.dll
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.pdb
+C:\Users\Cavid\source\repos\5-zadaniye\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.genruntimeconfig.cache
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.exe
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.deps.json
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.runtimeconfig.json
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.dll
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\bin\Debug\netcoreapp3.1\5-zadaniye.pdb
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.dll
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.pdb
+C:\Users\Cavid\source\repos\Д-з (5)\5-zadaniye\obj\Debug\netcoreapp3.1\5-zadaniye.genruntimeconfig.cache

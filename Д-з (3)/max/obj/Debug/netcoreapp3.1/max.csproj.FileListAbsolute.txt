@@ -1,0 +1,26 @@
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.exe
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.deps.json
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.json
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.dll
+C:\Users\Cavid\source\repos\max\max\bin\Debug\netcoreapp3.1\max.pdb
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.dll
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.pdb
+C:\Users\Cavid\source\repos\max\max\obj\Debug\netcoreapp3.1\max.genruntimeconfig.cache
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.exe
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.deps.json
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.json
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.dll
+C:\Users\Cavid\source\repos\Д-з (3)\max\bin\Debug\netcoreapp3.1\max.pdb
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.dll
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.pdb
+C:\Users\Cavid\source\repos\Д-з (3)\max\obj\Debug\netcoreapp3.1\max.genruntimeconfig.cache
